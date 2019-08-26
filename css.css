@@ -1,0 +1,27 @@
+li{
+    display: inline;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: xx-large;
+    text-decoration: none;
+    padding-top: 50%
+}
+ul{
+    text-align: center;
+}
+body{
+    Background-image:
+
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+a{
+    text-decoration: none;
+    color: white
+}
+a:hover{
+    color: red
+}
